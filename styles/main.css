@@ -1,3 +1,19 @@
 * {
-    padding: 0;
-    margin: 0;
+  padding: 0;
+  margin: 0;
+}
+
+.header {
+  background-color: brown;
+}
+.logo-A {
+  width: 155px;
+}
+
+.enlaces {
+}
+
+.main {
+  height: 100vh;
+  background-color: #3cdbc0;
+}
